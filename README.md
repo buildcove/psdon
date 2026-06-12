@@ -2,14 +2,13 @@
 
 Obsessed with numbers, security, building scalable systems, and financial markets.
 
-I run a multi-strategy portfolio designed to generate uncorrelated returns, with live algorithmic systems across momentum, trend-following, and arbitrage.
+I run a multi-strategy portfolio designed to pursue uncorrelated returns, with live algorithmic systems across momentum, trend-following, and arbitrage.
 
-I discovered and refined these systems using combinatorial unranking, pruning techniques, and early stopping to make large-scale strategy search more efficient. My edge is the research methodology itself: disciplined validation, anti-overfitting controls, and a systematic approach to finding robust trading systems. 
+I discovered and refined these systems using combinatorial unranking, pruning techniques, and early stopping to make large-scale strategy search more efficient. My edge comes from the research methodology itself: disciplined validation, anti-overfitting controls, and a systematic approach to finding robust trading systems.
 
 I also generate synthetic market worlds for simulation-based stress testing, including erratic regimes, low-R² noisy markets, and randomized scenarios. The goal is to test whether a strategy can survive beyond the original backtest and remain robust under uncertainty.
 
 My current research focus is applying machine learning as the next frontier in trading research.
-
 
 ## Tech
 - **Languages**: Python, Rust, Typescript, Bash (familiar with: C, PHP, Perl, Assembly)
