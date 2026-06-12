@@ -1,6 +1,13 @@
 # Hi, I’m Pau <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />
 
-Obsessed with numbers, security, and building scalable systems.
+Obsessed with numbers, security, building scalable systems, and financial markets.
+
+I run a multi-strategy portfolio designed to generate uncorrelated returns, with live algorithmic systems across momentum, trend-following, and arbitrage.
+
+I discovered and refined these systems using combinatorial unranking, pruning techniques, and early stopping to make large-scale strategy search more efficient. My edge comes from the research methodology itself: disciplined validation, anti-overfitting controls, and a systematic approach to finding robust trading systems.
+
+My current research focus is applying machine learning as the next frontier in trading research.
+
 
 ## Tech
 - **Languages**: Python, Rust, Typescript, Bash (familiar with: C, PHP, Perl, Assembly)
