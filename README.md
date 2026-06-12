@@ -1,6 +1,6 @@
 # Hi, I’m Pau <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />
 
-Obsessed with numbers, security, building scalable systems, and financial markets.
+Obsessed with numbers, security/compliance, building scalable systems, and financial markets.
 
 I run a multi-strategy portfolio designed to pursue uncorrelated returns, with live algorithmic systems across momentum, trend-following, and arbitrage.
 
